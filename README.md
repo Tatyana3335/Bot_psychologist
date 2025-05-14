@@ -2,7 +2,7 @@
 
 Ссылка на проект - @infinity8889_bot
 
-![Скриншот 1]([https://example.com/image.png](https://github.com/Tatyana3335/Bot_psychologist/blob/main/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B33.png?raw=true)
+![Скриншот 1]([https://example.com/image.png](https://github.com/Tatyana3335/Bot_psychologist/blob/main/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B33.png?raw=true))
 
 ## Описание проекта
 
